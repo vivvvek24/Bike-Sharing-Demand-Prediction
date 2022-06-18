@@ -22,3 +22,13 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 ● When we compare the root mean squared error and mean absolute error of all the models, the random forest regression model has less root mean squared error and mean absolute error, ending with the R-squared of 99% . So, finally this model is best for predicting the bike rental count on daily basis.
 
 ● For all the models, temperature or hour was ranked as the most influential variable to predict the rental bike demand at each hour.
+
+# Credits
+
+Soni Rani | Data Scientist | Machine Learning Enthusiast
+
+Suraj singh | Data Scientist | Machine Learning Enthusiast
+
+# Refrences
+
+Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
