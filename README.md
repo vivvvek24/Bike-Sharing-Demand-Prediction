@@ -76,9 +76,7 @@ Finally, delete the path in the dataset loading cell and replace it with the pat
 
 # Credits
 
-Soni Rani | Data Scientist | Machine Learning Enthusiast
-
-Suraj singh | Data Scientist | Machine Learning Enthusiast
+Vivek kumar | Soni Rani | Suraj Singh
 
 # Refrences
 
