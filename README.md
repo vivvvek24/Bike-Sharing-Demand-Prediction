@@ -17,11 +17,11 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 ● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
-# ** Project Files Description**
+# **Project Files Description**
 
 This Project includes 1 colab notebook and 1 Pdf of presentation.
 
-# **Executable Files:
+# **Executable Files:**
 
 [Bike Sharing Demand Prediction](https://github.com/vivvvek24/Credit-card-default-prediction/blob/main/Copy_of_Credit_Card_Default_Prediction_Capstone_Project.ipynb) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 
