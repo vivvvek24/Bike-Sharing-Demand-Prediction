@@ -54,7 +54,7 @@ Downlaod the dataset from kaggle through provided link.Then, connect to the runt
 
 Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.
 
-## :blue_book: **Algorithms Used**
+## **Algorithms Used**
 
 1. Linear Regression
 2. Lasso and Ridge Regression
